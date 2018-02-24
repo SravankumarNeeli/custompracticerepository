@@ -6,8 +6,8 @@ public class TestingConflicts {
 		// TODO Auto-generated method stub
 		
 		String[] names= {"Ram","parvathama","prabhu","suresh"};
-		for(int i=0;i<names.length;i++) {
-		System.out.format("Hello \n",names[i]);
+		for(String name:names) {
+		System.out.format("Hello \n",names);
 
 	}
 	}
