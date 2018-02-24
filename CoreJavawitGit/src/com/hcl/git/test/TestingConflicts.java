@@ -8,6 +8,7 @@ public class TestingConflicts {
 		String[] names= {"Ram","parvathama","prabhu","suresh","Sravan","Haritha","Heman"};
 		for(int i=0;i<names.length;i++) {
 		System.out.format("Hello \n",names[i]);
+		
 
 	}
 	}
